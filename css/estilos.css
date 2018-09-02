@@ -8,3 +8,25 @@
 #tabs4-1b .tab-pane{
   padding:40px 20px;
 }
+
+.espaciovertical {
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+.hobbies {
+  padding:40px 20px;
+  background: #fff;
+}
+
+.compartir {
+  padding:40px 20px;
+}
+
+.pie-pagina {
+  padding:40px 20px;
+}
+
+.copy {
+  padding:20px;
+}
