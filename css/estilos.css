@@ -18,6 +18,21 @@
   padding:10px;
 }
 
+.timelines-container {
+  margin-top:-80px;
+  margin-bottom:-80px;
+}
+
+.gallery-filter-active{
+  margin-top:-100px;  
+}
+
+#gallery2-3 {
+  padding-bottom:80px;
+}
+.experienciacursos {
+  padding:60px;
+}
 
 .reconocimientos {
   padding:40px 20px;
