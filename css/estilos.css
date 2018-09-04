@@ -14,8 +14,18 @@
   padding-bottom:20px;
 }
 
+.espaciointerior {
+  padding-left:20px;
+  padding-right: 20px;
+}
+
 .espaciomini {
   padding:10px;
+}
+
+#tabsEspecificas progress {
+  margin-top:10px;
+  margin-bottom:10px;
 }
 
 .ajustarAltoNegativo {
