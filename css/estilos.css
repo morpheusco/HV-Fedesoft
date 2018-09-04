@@ -18,6 +18,10 @@
   padding:10px;
 }
 
+.ajustarAltoNegativo {
+  margin-top:-60px;
+}
+
 .timelines-container {
   margin-top:-80px;
   margin-bottom:-80px;
@@ -25,6 +29,10 @@
 
 .gallery-filter-active{
   margin-top:-100px;  
+}
+
+#features15-j {
+  margin-top:-80px;
 }
 
 #gallery2-3 {
@@ -40,9 +48,18 @@
 }
 
 .hobbies {
-  padding:40px 20px;
+  padding:20px;
   background: #fff;
 }
+
+.hobbieimagen {
+  filter: grayscale(1);
+}
+
+.hobbieimagen:hover{
+  filter: grayscale(0);
+}
+
 
 .compartir {
   padding:40px 20px;
